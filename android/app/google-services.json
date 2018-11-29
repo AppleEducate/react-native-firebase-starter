@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "347513600134",
+    "firebase_url": "https://songlist-pro.firebaseio.com",
+    "project_id": "songlist-pro",
+    "storage_bucket": "songlist-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347513600134:android:8af14b9caeccfd3e",
+        "android_client_info": {
+          "package_name": "com.appleeducate.songlistpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347513600134-mokvqieff7o2lqse4s76lpskmg69ksva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appleeducate.songlistpro",
+            "certificate_hash": "12f1084414c3c935af4ac53c0147561d7a0b0027"
+          }
+        },
+        {
+          "client_id": "347513600134-t3iskq7roh9rpic2c4s73aud3l91nfco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbYZpJUwp9UVoB7-efPIxq1yNdzoXetQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347513600134-t3iskq7roh9rpic2c4s73aud3l91nfco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347513600134-a7eirc7jkihr6s06ugs9i7k6d19h4v0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appleeducate.songlistpro",
+                "app_store_id": "1416032979"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

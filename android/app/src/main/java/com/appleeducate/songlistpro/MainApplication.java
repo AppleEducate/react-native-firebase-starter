@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.appleeducate.songlistpro;
 
 import android.annotation.SuppressLint;
 import android.app.Application;
